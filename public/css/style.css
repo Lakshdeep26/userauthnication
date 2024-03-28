@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(247, 226, 198);
+}
+h2{
+    color: rgb(46, 46, 241);
+    text-align: center;
+}
+
+h3{
+    color: rgb(250, 100, 100);
+    text-align: center;
+    text-decoration: wavy;
+}
